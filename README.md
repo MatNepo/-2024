@@ -8,5 +8,6 @@
 6. [Лабораторная работа 6](https://colab.research.google.com/drive/10AtCV-70PDEo4jlWPWbG6injO6TKauVp#scrollTo=nA4bbYVnjJSA)
 7. [Лабораторная работа 7](https://colab.research.google.com/drive/10AtCV-70PDEo4jlWPWbG6injO6TKauVp#scrollTo=4FTt4NpNiDi5)
 8. [Лабораторная работа 8](https://colab.research.google.com/drive/10AtCV-70PDEo4jlWPWbG6injO6TKauVp#scrollTo=pm1zK77EKeVG)
+9. [Лабораторная работа 8](https://colab.research.google.com/drive/10AtCV-70PDEo4jlWPWbG6injO6TKauVp#scrollTo=QvDhmjSmXOjl)
 
 **По мере выполнения лабораторных работ файл будет обновляться. Ссылки, приведённые выше, относятся к одному и тому же файлу, но перенаправляют на соответсвующий номеру лабораторной раздел*
