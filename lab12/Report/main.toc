@@ -1,0 +1,37 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Задача}{2}{section.1}%
+\contentsline {section}{\numberline {2}Ход работы}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Подготовка исходной схемы}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Схема из 1 туториала}{2}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Low Pass Filter}{3}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Designing the Filter Taps}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Frequency Xlating FIR Filter}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Low-Pass Filter Taps}{6}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Анализ схемы}{7}{subsubsection.2.2.3}%
+\contentsline {paragraph}{Принцип работы}{7}{paragraph*.6}%
+\contentsline {paragraph}{Предположения о поведении сигнала}{8}{paragraph*.7}%
+\contentsline {paragraph}{Пояснения}{8}{paragraph*.8}%
+\contentsline {subsubsection}{\numberline {2.2.4}Запуск блок-схемы}{8}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Анализ графика}{9}{subsubsection.2.2.5}%
+\contentsline {paragraph}{Соответствие ожиданиям:}{9}{paragraph*.10}%
+\contentsline {subsection}{\numberline {2.3}Entering Filter Taps Manually}{10}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Изменение схемы}{10}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Анализ схемы}{10}{subsubsection.2.3.2}%
+\contentsline {paragraph}{Принцип работы}{10}{paragraph*.12}%
+\contentsline {paragraph}{Предположения о поведении сигнала}{11}{paragraph*.13}%
+\contentsline {subsubsection}{\numberline {2.3.3}Запуск блок-схемы}{11}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Анализ графика}{12}{subsubsection.2.3.4}%
+\contentsline {paragraph}{Поведение на разных частотах:}{12}{paragraph*.15}%
+\contentsline {paragraph}{Соответствие ожиданиям:}{12}{paragraph*.16}%
+\contentsline {subsection}{\numberline {2.4}Real to Complex Filter}{12}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Изменение схемы}{13}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Анализ схемы}{13}{subsubsection.2.4.2}%
+\contentsline {paragraph}{Принцип работы}{13}{paragraph*.18}%
+\contentsline {paragraph}{*Преобразование Гильберта}{13}{paragraph*.19}%
+\contentsline {paragraph}{Предположения о поведении сигнала}{14}{paragraph*.20}%
+\contentsline {paragraph}{Пояснения}{14}{paragraph*.21}%
+\contentsline {subsubsection}{\numberline {2.4.3}Запуск блок-схемы}{15}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Анализ графика}{15}{subsubsection.2.4.4}%
+\contentsline {paragraph}{Соответствие ожиданиям:}{15}{paragraph*.23}%
+\contentsline {section}{\numberline {3}Вывод}{16}{section.3}%
+\contentsfinish 
