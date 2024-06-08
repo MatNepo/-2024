@@ -9,7 +9,7 @@
 7. [Лабораторная работа 7](https://colab.research.google.com/drive/19CNLwWf0h5zI-HfLwYh6DGVWUXBz_Dgn#scrollTo=4FTt4NpNiDi5)
 8. [Лабораторная работа 8](https://colab.research.google.com/drive/19CNLwWf0h5zI-HfLwYh6DGVWUXBz_Dgn#scrollTo=pm1zK77EKeVG)
 9. [Лабораторная работа 9](https://colab.research.google.com/drive/19CNLwWf0h5zI-HfLwYh6DGVWUXBz_Dgn#scrollTo=QvDhmjSmXOjl)
-10. [Лабораторная работа 10]()
-11. [Лабораторная работа 11]()
+10. [Лабораторная работа 10](https://colab.research.google.com/drive/19CNLwWf0h5zI-HfLwYh6DGVWUXBz_Dgn#scrollTo=awwN2jK3Xso1)
+11. [Лабораторная работа 11](https://colab.research.google.com/drive/19CNLwWf0h5zI-HfLwYh6DGVWUXBz_Dgn#scrollTo=AywQUkjJookR)
 
 **По мере выполнения лабораторных работ файл будет обновляться. Ссылки, приведённые выше, относятся к одному и тому же файлу, но перенаправляют на соответсвующий номеру лабораторной раздел*
