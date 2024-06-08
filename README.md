@@ -7,8 +7,8 @@
 5. [Лабораторная работа 5](https://colab.research.google.com/drive/19CNLwWf0h5zI-HfLwYh6DGVWUXBz_Dgn#scrollTo=SpjbIL2wxrV5)
 6. [Лабораторная работа 6](https://colab.research.google.com/drive/19CNLwWf0h5zI-HfLwYh6DGVWUXBz_Dgn#scrollTo=nA4bbYVnjJSA)
 7. [Лабораторная работа 7](https://colab.research.google.com/drive/19CNLwWf0h5zI-HfLwYh6DGVWUXBz_Dgn#scrollTo=4FTt4NpNiDi5)
-8. [Лабораторная работа 8]()
-9. [Лабораторная работа 9]()
+8. [Лабораторная работа 8](https://colab.research.google.com/drive/19CNLwWf0h5zI-HfLwYh6DGVWUXBz_Dgn#scrollTo=pm1zK77EKeVG)
+9. [Лабораторная работа 9](https://colab.research.google.com/drive/19CNLwWf0h5zI-HfLwYh6DGVWUXBz_Dgn#scrollTo=QvDhmjSmXOjl)
 10. [Лабораторная работа 10]()
 11. [Лабораторная работа 11]()
 
